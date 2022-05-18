@@ -1,0 +1,3 @@
+[submodule "modules/b3c-data-mysql"]
+	path = modules/b3c-data-mysql
+	url = git@github.com:jarismar/b3c-data-mysql.git
