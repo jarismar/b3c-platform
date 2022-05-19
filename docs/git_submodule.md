@@ -19,7 +19,7 @@ Adding a new git sub module:
 
 ```
 cd modules
-git submodule add <repo>
+git submodule add <repo url>
 git commit -am 'Add <module_name> module'
 git push
 ```

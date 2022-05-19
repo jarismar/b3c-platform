@@ -1,3 +1,6 @@
 [submodule "modules/b3c-data-mysql"]
 	path = modules/b3c-data-mysql
 	url = git@github.com:jarismar/b3c-data-mysql.git
+[submodule "modules/b3c-invoice-reader-lambda"]
+	path = modules/b3c-invoice-reader-lambda
+	url = git@github.com:jarismar/b3c-invoice-reader-lambda.git
