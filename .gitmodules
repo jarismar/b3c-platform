@@ -7,3 +7,6 @@
 [submodule "modules/b3c-service-entities"]
 	path = modules/b3c-service-entities
 	url = git@github.com:jarismar/b3c-service-entities.git
+[submodule "modules/b3c-invoice-html-parser"]
+	path = modules/b3c-invoice-html-parser
+	url = git@github.com:jarismar/b3c-invoice-html-parser.git
