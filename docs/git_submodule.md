@@ -2,7 +2,7 @@
 
 This project is a monorepo for the b3c product.
 It aims to keep all other modules together helping developers to rapidly set their environment.
-It also holds all global tools related to building, deplying and testing the product.
+It also holds all global tools related to building, deploying and testing the product.
 
 ## Changes on git configuration
 
